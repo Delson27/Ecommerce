@@ -8,4 +8,4 @@ Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/Delson27/Ecoomerce.git
-cd Ecommerce_website
+cd Ecommerce
